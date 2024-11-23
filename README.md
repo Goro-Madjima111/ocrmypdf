@@ -12,7 +12,7 @@
   Скачайте и установите с [официального сайта](https://ghostscript.com/releases/gsdnld.html). Это необходимо для работы с PDF-файлами.
 
 - **Python**:
-  Скачайте и установите `python-3.XX.X.exe` (выбираете любую версию](https://www.python.org/downloads/)). Убедитесь, что во время установки вы отметили опцию `Add Python to PATH`.
+  Скачайте и установите `python-3.XX.X.exe` [выбираете любую версию](https://www.python.org/downloads/). Убедитесь, что во время установки вы отметили опцию `Add Python to PATH`.
 
 - **Tesseract OCR**:
   Скачайте и установите с [страницы Tesseract](https://github.com/UB-Mannheim/tesseract/wiki). Убедитесь, что добавили Tesseract в системный PATH.
